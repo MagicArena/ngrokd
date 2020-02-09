@@ -9,4 +9,4 @@ Run this container:
     --publish published=1222,target=1222,protocol=tcp \
     --detach \
     --restart always \
-    magicarena\ngrokd
+    magicarena/ngrokd
